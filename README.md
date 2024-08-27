@@ -1,8 +1,11 @@
+![awesome](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/awesome/awesome.png)
+
 # makefiles
-Useful makefile catalog
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+A curated collection of badass makefile files
 
-## catalog
+## Catalog
 - [docker](docker/Makefile)
 - [kubernetes](kubernetes/Makefile)
 - [golang](golang/Makefile)
