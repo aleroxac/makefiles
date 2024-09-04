@@ -3,7 +3,7 @@
 # makefiles
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated collection of badass makefile files
+A curated collection of badass makefiles
 
 ## Catalog
 - [docker](docker/Makefile)
